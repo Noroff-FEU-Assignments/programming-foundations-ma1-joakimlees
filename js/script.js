@@ -22,7 +22,6 @@ console.log(fullName);
 */
 
 var checkValue = "frog";
-
 var varType = typeof checkValue;
 
 console.log("the type of frog is " + varType);
@@ -42,8 +41,6 @@ if (orderHasShipped === true) {
 /*
  Create a for loop that counts from 7 to 13. Console log the value of the counter variable inside the loop.
 */
-
-var count;
 
 for (var count = 7; count <= 13; count++) {
   console.log(count);
